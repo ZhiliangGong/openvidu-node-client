@@ -42,7 +42,7 @@ testem.log
 Thumbs.db
 *.editorconfig
 
-/lib/
+# /lib/
 
 docs/
-lib/
+# lib/
